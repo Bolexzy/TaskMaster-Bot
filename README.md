@@ -5,7 +5,9 @@ This is a Telegram bot designed to test various unit projects. It has several fu
 
 ## Demo
 
-Insert gif or link to demo
+<p align="center">
+  <img src="https://github.com/Bolexzy/TaskMaster-Bot/blob/main/images/0421.gif">
+</p>
 
 
 ## Installation
