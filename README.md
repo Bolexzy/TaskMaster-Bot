@@ -1,9 +1,6 @@
-
-# TaskAI Bot
+# TaskMaster Bot [![Join on Telegram](https://img.shields.io/badge/Chat%20On%20-Telegram-blue.svg)]
 
 This is a Telegram bot designed to test various unit projects. It has several functionalities such as creating temporary emails and checking for new emails.
-
-
 
 
 ## Demo
